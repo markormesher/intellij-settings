@@ -1,0 +1,29 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern=".user.ini" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".runner-enabled" type="PLAIN_TEXT" />
+      <mapping pattern=".keep-folder" type="PLAIN_TEXT" />
+      <mapping pattern=".keepfolder" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="stk" type="PLAIN_TEXT" />
+      <mapping ext="myl" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_connect" type="XHTML" />
+      <mapping ext="config" type="XML" />
+    </extensionMap>
+  </component>
+</application>
