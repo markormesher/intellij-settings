@@ -11,6 +11,9 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <CoffeeScriptCodeStyleSettings>
+    <option name="SPACE_WITHIN_OBJECT_BRACES" value="true" />
+  </CoffeeScriptCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="SPACE_BEFORE_EXTEND_COLON" value="false" />
   </JetCodeStyleSettings>
@@ -33,7 +36,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Gherkin">
