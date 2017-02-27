@@ -51,6 +51,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
+    <option name="RIGHT_MARGIN" value="200" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
