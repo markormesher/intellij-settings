@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="PrintSettings">
+    <option name="includeSubdirectories" value="true" />
     <option name="printScope" value="4" />
+    <option name="PRINT_AS_GRAPHICS" value="false" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="FONT_SIZE" value="11" />
+    <option name="BOTTOM_MARGIN" value="0.5" />
+    <option name="LEFT_MARGIN" value="0.5" />
+    <option name="RIGHT_MARGIN" value="0.5" />
+    <option name="DRAW_BORDER" value="false" />
     <option name="FOOTER_HEADER_FONT_NAME" value="Abyssinica SIL" />
   </component>
 </application>
-
