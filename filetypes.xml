@@ -6,18 +6,4 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="button_styles" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="stk" type="PLAIN_TEXT" />
-      <mapping ext="myl" type="PLAIN_TEXT" />
-      <mapping ext="sqlite3" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_connect" type="XHTML" />
-      <mapping ext="config" type="XML" />
-    </extensionMap>
-  </component>
 </application>
