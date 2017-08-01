@@ -8,6 +8,7 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="button_styles" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
